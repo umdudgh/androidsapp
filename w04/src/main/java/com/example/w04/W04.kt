@@ -1,4 +1,4 @@
-package com.example.MainActivity
+package com.example.w04
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
